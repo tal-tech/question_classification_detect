@@ -1,0 +1,1 @@
+question_classification_detect/separatequestion_det_jyy/epoch_12.pth http://ai-servitization-test.oss-cn-beijing.aliyuncs.com/AI_OpenSource%2Fquestion_classification_detect%2Fseparatequestion_det_jyy%2Fepoch_12.pth?OSSAccessKeyId=LTAI4FoGCvbhbuDm8eQm5peZ&Expires=1697832001&Signature=k10keFFW5SkuB9Lt%2BDR7YVnggzw%3D
